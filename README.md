@@ -28,3 +28,5 @@ This project is created to help students, small businesses, and professionals ea
 - Add multiple GST rates
 - Create a simple web version
 - Add user input functionality
+
+- Update: Working on improving this calculator.
