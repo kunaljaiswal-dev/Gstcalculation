@@ -29,4 +29,4 @@ This project is created to help students, small businesses, and professionals ea
 - Create a simple web version
 - Add user input functionality
 
-- Update: Working on improving this calculator.
+- New updates lined up.
